@@ -1,6 +1,6 @@
 # Hi there, I'm Andrii Berchak! 👋
 
-**Trainee Java Developer** from Ivano-Frankivsk, Ukraine 🇺🇦
+**Trainee Java Developer** from Ivano-Frankivsk, Ukraine 💛💙
 
 I'm a passionate backend developer focused on building robust and scalable applications with Java and Spring ecosystem. Currently seeking opportunities to grow and contribute to innovative projects.
 
@@ -90,8 +90,4 @@ A full-featured clinic management application for scheduling appointments, manag
 
 <div align="center">
   <i>⭐ Feel free to explore my repositories and don't forget to star them if you find something interesting!</i>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=andriiberchak&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
