@@ -47,7 +47,7 @@ A comprehensive travel booking platform built with Spring Boot, featuring user a
 **Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, OAuth2, Unit & Integration Tests, AOP, PostgreSQL, Maven
 
 ### 🦷 [Dental Clinic Management System](https://github.com/andriiberchak/dental-clinic-management)
-A full-featured clinic management application for scheduling appointments, managing patient records, and handling medical procedures. Built with modern Java practices and extensive testing coverage.
+A full-featured clinic management application for scheduling appointments and managing patient records. Built with modern Java practices.
 
 **Tech Stack:** Java, Spring Boot, Spring Security, Hibernate, OAuth2, JUnit, Mockito, PostgreSQL, Google Calendar API
 
