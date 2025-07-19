@@ -44,12 +44,12 @@ I'm a passionate backend developer focused on building robust and scalable appli
 ### 🏢 [Travel Agency](https://github.com/andriiberchak/travel-agency)
 A comprehensive travel booking platform built with Spring Boot, featuring user authentication, booking management, and payment processing. Includes multi-language support, comprehensive testing, and AOP implementation.
 
-**Tech Stack:** Java, Spring Boot, Spring Security, Hibernate, OAuth2, JUnit, Mockito, PostgreSQL
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, OAuth2, Unit & Integration Tests, AOP, PostgreSQL, Maven
 
-### 🦷 [Dental Clinic Management System](https://github.com/andriiberchak/dental-clinic)
+### 🦷 [Dental Clinic Management System](https://github.com/andriiberchak/dental-clinic-management)
 A full-featured clinic management application for scheduling appointments, managing patient records, and handling medical procedures. Built with modern Java practices and extensive testing coverage.
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Unit & Integration Tests, AOP, PostgreSQL, Maven
+**Tech Stack:** Java, Spring Boot, Spring Security, Hibernate, OAuth2, JUnit, Mockito, PostgreSQL, Google Calendar API
 
 ## 📊 GitHub Stats
 
